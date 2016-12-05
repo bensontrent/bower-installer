@@ -34,9 +34,8 @@
     "dependencies"
   ],
   "author": "Bret Little",
-  "contributors": [{
-    "name": "Richard Quadling"
-  }
+  "contributors": [
+    "Richard Quadling"
   ],
   "license": "MIT",
   "bin": {
