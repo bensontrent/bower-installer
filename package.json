@@ -34,9 +34,10 @@
     "dependencies"
   ],
   "author": "Bret Little",
-  "contributors": {
+  "contributors": [{
     "name": "Richard Quadling"
-  },
+  }
+  ],
   "license": "MIT",
   "bin": {
     "bower-installer": "./bower-installer.js"
